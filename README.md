@@ -3,4 +3,4 @@ Recursos para un curso de Bioinformatica
 
 ----
 
-[https://robertoalvarezm.github.io/Como_crear_un_repositorio](Cómo crear un repositorio)
+(Cómo crear un repositorio) [https://robertoalvarezm.github.io/Como_crear_un_repositorio]
