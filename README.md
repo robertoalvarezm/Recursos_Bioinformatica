@@ -1,4 +1,4 @@
-# Recursos_Bioinformatica
+# Recursos Bioinformatica
 Recursos para un curso de Bioinformatica
 
 ----
