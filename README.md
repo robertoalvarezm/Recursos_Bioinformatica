@@ -80,7 +80,7 @@ Recursos para un curso de Bioinformática
 
 ### Git y GitHub
 - [Pro Git Book](https://git-scm.com/book/es/v2) - Libro completo sobre Git (versión en español)
-- [GitHub Learning Lab](https://lab.github.com/) - Cursos interactivos de GitHub
+- [GitHub Skills](https://skills.github.com/) - Cursos interactivos de GitHub
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/) - Manual de Git
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - Tutoriales completos de Git
 
